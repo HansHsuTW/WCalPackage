@@ -1,0 +1,11 @@
+SlabCell
+
+wcal.nL     = 40
+wcal.isCut  = 0
+wcal.LB     = [-0.1 0.5]
+wcal.hkl    = [0 0 1]
+wcal.isConv = 0
+wcal.ref    = ftn58sparse.mat
+
+endSlabCell
+
