@@ -1,0 +1,9 @@
+TBHmftn
+
+wcal.isEC   = 0
+wcal.ecut   = 0
+wcal.isSO   = 1
+wcal.ref    = SnTeso_hr.dat
+
+endTBHmftn
+
