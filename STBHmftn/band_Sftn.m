@@ -113,7 +113,3 @@ ax.XTickLabel = {'\bf{$\Gamma$}' '\bf{X}' '\bf{M}' '\bf{$\Gamma$}'};
 % ax.XTickLabel = {};
 ax.LineWidth  = 0.5;
 ax.TickLabelInterpreter='latex';
-
-save Ek_50L.mat Ek 
-
-% save eigvec.mat Ham eigvec
