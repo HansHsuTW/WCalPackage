@@ -25,3 +25,7 @@ After running this, two structure files "Unit.vasp" and "Slab.vasp" are generate
 ```
 >> STBHmftn.m
 ```
+4) Checking the band structure by running "band_Sftn.m"
+```
+>> band_Sftn.m
+```
