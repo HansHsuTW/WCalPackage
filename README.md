@@ -11,5 +11,6 @@ This program can create a finite slab tight-binding model with the (hkl) surface
 This program can calculate the surface states on a semi-inifite thin film by using the Green's function method.
 
 ## MirrorChern
+The program to calculate the mirror Chern number (Mxy) in SnTe.
 
 ## WilsonLoop
