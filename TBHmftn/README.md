@@ -16,3 +16,14 @@ Te 2 3 4                           % (2nd type)
  0.00000   0.00000   0.00000	3     % Fractional coordinates for each atom followed by the number of orbits. 
 -0.50000   0.50000   0.50000	3
 ```
+2) Prepare the input (input.txt) file for the program "TBHmftn". 
+```
+TBHmftn                         
+
+wcal.isEC   = 0                % isEC = 1 to truncate the TB model based on the size of hopping strength
+wcal.ecut   = 0                % specify the truncated hopping strength
+wcal.isSO   = 1                % isSO = 0 model w/o SOC; isSO = 1 model w/ SOC
+wcal.ref    = SnTeso_hr.dat    % name for the TB model generated from Wannier90.x 
+
+endTBHmftn
+```
