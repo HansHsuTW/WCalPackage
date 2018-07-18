@@ -25,7 +25,10 @@ After running this, two structure files "Unit.vasp" and "Slab.vasp" are generate
 ```
 >> STBHmftn.m
 ```
-4) Checking the band structure by running "band_Sftn.m"
+4) Check the band structure by running "band_Sftn.m"
 ```
 >> band_Sftn.m
 ```
+
+## Notes 
+Script "MaxHop.m" will help to check the maximum hopping distance along the stakcing direction (the last index). To run the program "GreenSur.m", you will need the hopping information between layers that you can get from this current program.  
