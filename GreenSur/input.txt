@@ -1,0 +1,22 @@
+GreenSur
+
+wcal.Ni     = 13
+wcal.nn     = 0.0008
+wcal.Nk     = 50
+wcal.kp1    = [0.0 0.0]
+wcal.kp2    = [0.5 0.0]
+
+wcal.Ef     = 5.2503
+
+wcal.Emu    = [-1 1]
+wcal.nE     = 50
+
+wcal.ncpu   = 2
+wcal.file   = Sftn58sparse_16L.mat
+
+wcal.isPot  = 1
+wcal.PeV    = 0.1
+wcal.dis    = 0.86 
+
+endGreenSur
+
