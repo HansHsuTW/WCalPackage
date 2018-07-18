@@ -27,3 +27,15 @@ wcal.ref    = SnTeso_hr.dat    % name for the TB model generated from Wannier90.
 
 endTBHmftn
 ```
+3) Run "TBHmftn" to get the packed file "ftn58sparse.mat"
+```
+>> TBHmftn.m
+```
+4) Get the benchmark for your wannier TB model. 
+```
+>> band_Bench.m
+```
+5) Calculate the band structure along the desired k paths, 
+```
+>> band_ftn.m
+```
