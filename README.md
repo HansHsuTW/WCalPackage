@@ -8,6 +8,7 @@ This program will convert the case_hr.dat generated from the wannier90 to a pack
 This program can create a finite slab tight-binding model with the (hkl) surface from the bulk tight-binding model.
 
 ## GreenSur
+This program can calculate the surface states on a semi-inifite thin film by using the Green's function method.
 
 ## MirrorChern
 
