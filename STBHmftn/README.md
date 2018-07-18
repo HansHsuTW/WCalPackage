@@ -20,6 +20,7 @@ endSlabCell
 >> SlabCell.m
 ```
 After running this, two structure files "Unit.vasp" and "Slab.vasp" are generated. You can check "Slab.vasp" to see whether this is the structure you want. 
+
 3) Run "STBHmftn.m" to get the slab TB model. 
 ```
 >> STBHmftn.m
