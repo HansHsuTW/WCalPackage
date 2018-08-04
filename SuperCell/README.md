@@ -28,7 +28,7 @@ After running this, a structure files "Unit.vasp" is generated. You can check "U
 >> band_ftn.m
 ```
 
-5) Change the "InFile" in "band_ftn.m" from "super_ftn58sparse.mat" to "ftn58sparse_cut_cdw.mat" for comparing the band structure w/ CDW and w/o CDW (supercell constructed from the prinstine monolayer TiSe2 ).
+5) Change the "InFile" in "band_ftn.m" from "super_ftn58sparse.mat" to "ftn58sparse_cut_cdw.mat" for comparing the band structure w/o CDW and w/ CDW (supercell constructed from the prinstine monolayer TiSe2 ).
 ```
 >> band_ftn.m
 ```
