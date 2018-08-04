@@ -17,6 +17,6 @@ This program can calculate the surface states on a semi-inifite thin film by usi
 The program to calculate the mirror Chern number (Mxy) in SnTe.
 
 ## SuperCell
-The program can generate an arbitrary supercell from a TB model with new unit vectors constructed from the linear combination of the original unvet vecotrs. 
+The program can generate an arbitrary supercell from a TB model with new unit vectors constructed from the linear combination of the original unit vecotrs. 
 
 ## WilsonLoop
