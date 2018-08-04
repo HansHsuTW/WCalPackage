@@ -1,0 +1,9 @@
+SuperCell
+
+wcal.vec1   = [2 0 0]
+wcal.vec2   = [0 2 0]
+wcal.vec3   = [0 0 1]
+wcal.file   = ftn58sparse_cut_p.mat
+
+endSuperCell
+
