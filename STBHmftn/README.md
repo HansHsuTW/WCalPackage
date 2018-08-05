@@ -6,12 +6,12 @@ This program can create a finite slab tight-binding model with the (hkl) surface
 ```
 SlabCell
 
-wcal.nL     = 40                  % number of layers stacking along [hkl]
-wcal.isCut  = 0                   % isCut = 1 to prepare the desired termination for the finite slab
-wcal.LB     = [-0.1 0.5]          % if isCut = 1, LB is for the lower and upper boundaries. 
-wcal.hkl    = [0 0 1]             % (hkl)
-wcal.isConv = 0                   % For the case when the conventional unit vectors do not coincde with the Cartesian xyz
-wcal.ref    = ftn58sparse.mat     % name for the bulk TB model
+wcal.nL     = 40                     % number of layers stacking along [hkl]
+wcal.isCut  = 0                      % isCut = 1 to prepare the desired termination for the finite slab
+wcal.LB     = [-0.1 0.5]             % if isCut = 1, LB is for the lower and upper boundaries. 
+wcal.hkl    = [0 0 1]                % (hkl)
+wcal.isConv = 0                      % For the case when the conventional unit vectors do not coincde with the Cartesian xyz
+wcal.ref    = ftn58sparse_SnTe.mat   % name for the bulk TB model
 
 endSlabCell
 ```
