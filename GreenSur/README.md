@@ -8,7 +8,7 @@ From the step in "STBHmftn", you will know that the maximum hopping distace for 
 GreenSur
 
 wcal.Ni     = 13                      % number of iterations
-wcal.nn     = 0.0008                  % broading facor in the Green's function
+wcal.nn     = 0.0008                  % broadening facor in the Green's function
 wcal.Nk     = 50                      % number of k points along the k path 
 wcal.kp1    = [0.0 0.0]               % the starting k point for the k path
 wcal.kp2    = [0.5 0.0]               % the ending k point for the k path
